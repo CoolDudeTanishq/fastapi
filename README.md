@@ -47,8 +47,4 @@ Text Query
 Docx Query
 ![docx query.png](https://github.com/SuyogB/fastapi-chroma-rag/blob/main/docx%20query.png)
 
-## Changes Made:
-1. **Updated Description**: Mentioned that the server supports ingestion of PDF, DOCX, and TXT documents.
-2. **Updated Features**: Added support for DOCX and TXT document formats in the features list.
 
-Feel free to let me know if you need any more modifications or additional information!
