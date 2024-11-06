@@ -1,4 +1,4 @@
-# FastAPI RAG Server with ChromaDB (Version 2)
+# FastAPI
 
 ## Description
 This repository implements a lightweight FastAPI server designed for a Retrieval-Augmented Generation (RAG) system. The server leverages ChromaDB's persistent client to ingest and query documents. Currently, it supports PDF document ingestion and utilizes the `sentence-transformers/all-MiniLM-L6-v2` model from Hugging Face for embeddings.
