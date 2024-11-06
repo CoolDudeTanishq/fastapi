@@ -42,9 +42,11 @@ Here’s an example of how to query the nearest neighbors:
 
 ## Output
 Text Query
-![text query.png](https://github.com/SuyogB/fastapi-chroma-rag/blob/main/text%20query.png)
+![text query.png](![text query](https://github.com/user-attachments/assets/4e023bc8-d150-428b-be7e-c85314a2e43f)
+)
 
 Docx Query
-![docx query.png](https://github.com/SuyogB/fastapi-chroma-rag/blob/main/docx%20query.png)
+![docx query.png](![docx query](https://github.com/user-attachments/assets/0fb8aadd-ced7-4f3b-a584-f0f63f3c312b)
+)
 
 
